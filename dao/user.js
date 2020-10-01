@@ -1,7 +1,10 @@
+const User = require('../db/mongoose');
+const mongoose = new Mongoose();
+
 class UserDao {
   async createUser(user) {
     try {
-      
+      mongoose.
     } catch (e) {
       return null;
     }
