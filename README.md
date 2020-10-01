@@ -29,7 +29,7 @@ This project is being developed with the following technologies:
 
 ## 💻 Project
 
-The ***devLEARN***, is a Project under **construction** :construction_worker: :construction:. With the purpose of learning/praticing ***NodeJS***, using ***Express*** to create a System that combines, ***Login***, ***CRUD***, ***CD/CI*** and ***TDD***. Made with **Javascript**, **NodeJS**, **Express**, **MongoDB** and **Mongoose**.
+The ***devLEARN***, is a Project under **construction** :construction_worker: :construction:. With the purpose of learning/praticing ***NodeJS***, using ***Express*** to create a System that combines, ***Login***, ***CRUD***, ***CD/CI*** and ***TDD***. Built with **Javascript**, **NodeJS**, **Express**, **MongoDB** and **Mongoose**.
 
 ## 🤔 How to contribute
 
