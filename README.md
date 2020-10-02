@@ -26,6 +26,8 @@ This project is being developed with the following technologies:
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
+- [jwt](https://jwt.io/)
 
 ## 💻 Project
 
