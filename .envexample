@@ -1,0 +1,2 @@
+URI=localhost:3000/test
+SECRET=MD5-HASH
