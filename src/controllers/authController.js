@@ -40,8 +40,10 @@ router.post('/authenticate', async (req, res) => {
   
   user.password = undefined;
 
+  const twentyFourHours = 86400;
+
   const token = jwt.sign({ id: user.id }, authConfig, {
-    expiresIn: 86400,
+    expiresIn: twentyFourHours,
   });
 
   res.send({ user, token });
