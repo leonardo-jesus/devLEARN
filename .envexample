@@ -1,2 +1,2 @@
-URI=localhost:3000/test
-SECRET=MD5-HASH
+URI=mongodb+srv://username:password@cluster.vlbqd.gcp.mongodb.net/database?retryWrites=true&w=majority
+SECRET=JWT-TOKEN-MD5-HASH
