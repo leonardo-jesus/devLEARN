@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/index.js"
   },
+  "repository": {
+    "url": "https://github.com/leonardo-jesus/devLEARN",
+    "type": "git"
+  },
   "author": "Leonardo Jesus",
   "license": "MIT",
   "dependencies": {
